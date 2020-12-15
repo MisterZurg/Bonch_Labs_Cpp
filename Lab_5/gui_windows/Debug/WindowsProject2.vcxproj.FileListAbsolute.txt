@@ -1,0 +1,2 @@
+C:\Users\Денис\source\repos\WindowsProject2\Debug\gui_windows.exe
+C:\Users\Денис\source\repos\WindowsProject2\Debug\gui_windows.pdb
